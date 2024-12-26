@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Стандартная тема -->
+    <style name="Theme.WeatherReport" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Настройка цвета фона приложения -->
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/primary_text_color</item>
+        <!-- Другие атрибуты для темы можно добавить здесь -->
+    </style>
+
+    <!-- Пример цвета -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="primary_text_color">#000000</color>
+
+</resources>
